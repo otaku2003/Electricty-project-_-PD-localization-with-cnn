@@ -1,0 +1,30 @@
+FINAL VISUAL ANALYSIS REPORT
+==================================================
+Number of samples: 200
+
+Euclidean Error:
+  Mean   : 212.7650 mm
+  Median : 182.8084 mm
+  Std    : 114.3248 mm
+  P90    : 365.6687 mm
+  P95    : 422.4221 mm
+  P99    : 538.1890 mm
+  Max    : 600.3910 mm
+
+X Dimension:
+  MAE  : 144.9189 mm
+  RMSE : 196.5001 mm
+  Bias : -3.8026 mm
+  Std  : 196.4633 mm
+
+Y Dimension:
+  MAE  : 75.8466 mm
+  RMSE : 94.4657 mm
+  Bias : -16.3117 mm
+  Std  : 93.0467 mm
+
+Z Dimension:
+  MAE  : 86.5557 mm
+  RMSE : 103.6228 mm
+  Bias : -16.9010 mm
+  Std  : 102.2352 mm
