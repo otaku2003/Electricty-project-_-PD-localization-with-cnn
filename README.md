@@ -1,10 +1,17 @@
 list of used libraries
+
 absl-py==2.3.1
+
 aiohappyeyeballs==2.6.1
+
 aiohttp==3.13.2
+
 aiosignal==1.4.0
+
 annotated-doc==0.0.4
+
 annotated-types==0.7.0
+
 anyio==4.12.0
 astunparse==1.6.3
 async-timeout==5.0.1
